@@ -1,16 +1,4 @@
-# card_page
+# Simple card_page
 
-A new Flutter project.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-21 at 21 04 36](https://user-images.githubusercontent.com/69448936/208993996-b005c353-5493-43e1-8f77-fa7b634baeb4.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
